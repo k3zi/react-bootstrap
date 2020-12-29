@@ -17,12 +17,6 @@
     "name": "Stephen J. Collings",
     "email": "stevoland@gmail.com"
   },
-  "files": [
-    "CHANGELOG.md",
-    "lib",
-    "dist",
-    "es"
-  ],
   "main": "lib/cjs/index.js",
   "module": "lib/esm/index.js",
   "types": "lib/esm/index.d.ts",
